@@ -6,5 +6,5 @@
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
   "profile": { "name": "typicode" },
-  "files": [{ file: Binary('', 0) }],
+  "files": [{ "file": Binary('', 0) }],
 }
